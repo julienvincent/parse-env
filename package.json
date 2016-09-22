@@ -1,0 +1,23 @@
+{
+  "name": "parse-env",
+  "version": "1.0.0",
+  "description": "Fetch variabled from a conf file",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yumochefs/parse-env.git"
+  },
+  "author": "Julien Vincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yumochefs/parse-env/issues"
+  },
+  "homepage": "https://github.com/yumochefs/parse-env#readme"
+}
