@@ -20,5 +20,5 @@ module.exports.parse = function(dir, defaults) {
         process.env[key] = value
     })
 
-    return env
+    return process.env
 }
