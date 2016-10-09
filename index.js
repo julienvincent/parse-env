@@ -19,4 +19,6 @@ module.exports.parse = function(dir, defaults) {
     _.forEach(mapToProcess, function(value, key) {
         process.env[key] = value
     })
+
+    return env
 }
