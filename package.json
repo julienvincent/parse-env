@@ -1,14 +1,16 @@
 {
-  "name": "parse-env",
+  "name": "@yumo/parse-env",
   "version": "1.0.0",
-  "description": "Fetch variabled from a conf file",
+  "description": "Fetch run-time variables from a conf file",
   "main": "index.js",
-  "dependencies": {
-    "lodash": "^4.16.1"
+  "publishConfig": {
+    "registry": "http://registry.yumochefs.com"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.16.1"
   },
   "repository": {
     "type": "git",
