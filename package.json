@@ -1,5 +1,5 @@
 {
-  "name": "@yumo/parse-env",
+  "name": "local-env",
   "version": "1.0.0",
   "description": "Fetch run-time variables from a conf file",
   "main": "index.js",
